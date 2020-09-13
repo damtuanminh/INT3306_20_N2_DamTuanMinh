@@ -1,4 +1,4 @@
-# baitapwebtuan1
+# INT3306_20_N2_DamTuanMinh
 This repository is belong to Dam Tuan Minh.
 
 Under the collaboration of:  
